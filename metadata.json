@@ -1,0 +1,7 @@
+{
+  "name": "Copy of My Family Roots",
+  "description": "A warm, accessible, and smart family hub connecting members of the Keelapavoor Family with shared history, events, and an AI historian.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
